@@ -1,1 +1,26 @@
+# cambio-climatico
+proyecto de kodland
 
+Visual Studio Code: para escribir y ejecutar el código.
+ GitHub: para guardar y presentar el proyecto.
+
+
+Funciones y métodos que voy a utilizar
+
+ print(): para mostrar información en pantalla.
+ input(): para recibir respuestas del usuario.
+ if, elif y else: para tomar decisiones dentro del programa.
+ while: para repetir el menú de la aplicación.
+ def: para crear funciones propias.
+ return: para devolver resultados de una función.
+ list: para organizar consejos e información.
+ for: para recorrer listas de información.
+
+ Archivos que voy a crear
+
+ main.py: contendrá el código principal.
+README.md: explicará el proyecto, sus objetivos y las herramientas utilizadas.
+
+Objetivo
+
+Desarrollar una aplicación educativa sencilla que permita conocer el cambio climático y aprender acciones para cuidar el planeta.
